@@ -2,7 +2,7 @@
 
 Bot de descarga de Mis Comprobantes de AFIP
 
-#Este Bot esta patentado vajo GLP
+#El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido Gratuitamente.
 
 Archivos base para la descarga de "Mis Comprobantes" recibidos y emitidos en el Servicio de Mis Comprobantes de AFIP en UiPath
 

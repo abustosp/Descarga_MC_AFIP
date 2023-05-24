@@ -17,6 +17,17 @@ Para ejecutar desde la consola de comandos, se debe ejecutar el siguiente comand
     UiPath.exe run -file "Directorio completo\Archivo.xaml" -input "Directorio Completo\proyect.json"
 
 
+Partucularidades del BOT:
+
+    ֎ Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
+
+    ֎ En caso que no se guarden los Archivos con el nombre solicitado se debe ejecutar el bot que contiene en su nombre "sin ST"
+
+    ֎ Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
+
+        ֎ Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
+
+
 Obviamente no me hago cargo del uso indebido del bot (ej si haces cagada y si te llegan a bloquear tu CUIT porque detecten que usas un bot (salió en una RG que prohibe el inicio automatico con bots con la consecuencia de bloquear el CUIT))
 
 y si lo compartís (hacelo gratis, mencioname también para que mas gente se meta en el mundo de RPA o mostrale mis videos para que vean que cosas pueden hacer)
@@ -29,15 +40,6 @@ Cualquier cosa pueden contactarme en:
 
     whatsapp al https://wa.me/+5493764224695
 
-Partucularidades del BOT:
-
-    Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
-
-    En caso que no se guarden los Archivos con el nombre solicitado se debe ejecutar el bot que contiene en su nombre "sin ST"
-
-    Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
-
-        Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
 
 <br/>
 

@@ -17,7 +17,7 @@ Para ejecutar desde la consola de comandos, se debe ejecutar el siguiente comand
     UiPath.exe run -file "Directorio completo\Archivo.xaml" -input "Directorio Completo\proyect.json"
 
 
-Partucularidades del BOT:
+Particularidades del BOT:
 
     ֎ Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
 

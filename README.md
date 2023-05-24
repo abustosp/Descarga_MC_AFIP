@@ -29,6 +29,16 @@ Cualquier cosa pueden contactarme en:
 
     whatsapp al https://wa.me/+5493764224695
 
+Partucularidades del BOT:
+
+    Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
+
+    En caso que no se guarden los Archivos con el nombre solicitado se debe ejecutar el bot que contiene en su nombre "sin ST"
+
+    Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
+
+        Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
+
 <br/>
 
 ## 💰 Acepto donaciones para mantener el proyecto libre y gratuito

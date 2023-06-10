@@ -1,49 +1,69 @@
 # Descarga_MC_AFIP
 
-Bot de descarga de Mis Comprobantes de AFIP
+Bot de descarga de Mis Comprobantes Emitidos y Recibidos del servicio Mis Comprobantes de AFIP de manera masiva.
 
-## El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
+---
+
+El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente.
+
+---
+
+## Ejecución del BOT
 
 Los pasos para ejecutar el bot son los siguientes:
 
-    ֎ Crearse una cuenta en UiPath (https://www.uipath.com/)
+1. Crearse una cuenta en UiPath ([https://www.uipath.com/](https://www.uipath.com/)).
 
-    ֎ Descargar el Uipath Studio (https://www.uipath.com/studio) en la versión Community (es gratuita)
+2. Descargar el Uipath Studio (https://www.uipath.com/studio) en la versión Community (es gratuita).
+
+3. Instalar la version el Studio (no la Studio X).
+
+4. Descargar el BOT. Acá hay 3 opciones:
+
+    1. Descargar el ZIP.
+    2. Descargarlo con la integración de GIT desde el Uipath.
+    3. Descargar el repositorio con GIT utilizando el comando "git clone"
     
-    ֎ Una vez instalado el Studio, se debe abrir el project.json o archivo .xaml y ejecutarlo. (se puede ejecutar desde el Studio o desde la consola de comandos)
+ 5. Una vez Descargados los archivos se debe:
+    1. Abrir el project.json o archivo .xaml 
+    2. Ejecutarlo (hacer click en el boton de "Play". 
 
-Para ejecutar desde la consola de comandos, se debe ejecutar el siguiente comando:
+---
 
-    UiPath.exe run -file "Directorio completo\Archivo.xaml" -input "Directorio Completo\proyect.json"
+## Particularidades del BOT:
 
+- Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional de Excel, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
 
-Particularidades del BOT:
+- En caso que no se guarden los Archivos con el nombre definido en el Excel se debe ejecutar el bot que contiene en su nombre "sin ST"
 
-    ֎ Para Ejecutar el BOT se debe completar la infmación en el Excel (hay que tener en cuenta el formato regional, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
+- Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
+  
+  - Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
 
-    ֎ En caso que no se guarden los Archivos con el nombre solicitado se debe ejecutar el bot que contiene en su nombre "sin ST"
+---
 
-    ֎ Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: "C:\Users\Agustin Bustos\Desktop\TEST\")
+## Aclaraciones
 
-        ֎ Los de la ventana emergente inicial van sin el último backslash (ejemplo: "C:\Users\Agustin Bustos\Desktop\Test") y es importante que esa ubicación exista. Esta ubicación se utiliza solamente cuando la direccion de descarga del Excel esta vacío
+- La utilización del bot es bajo tu propia responsabilidad.
 
+- Si se comparte debe ser de manera GRATUITA, ya que la licencia es bajo GPL 3. También los bots derivados deben seguir la misma licencia gratuita.
 
-Obviamente no me hago cargo del uso indebido del bot (ej si haces cagada y si te llegan a bloquear tu CUIT porque detecten que usas un bot (salió en una RG que prohibe el inicio automatico con bots con la consecuencia de bloquear el CUIT))
-
-y si lo compartís (hacelo gratis, mencioname también para que mas gente se meta en el mundo de RPA o mostrale mis videos para que vean que cosas pueden hacer)
+---
 
 Cualquier cosa pueden contactarme en:
 
-    https://www.linkedin.com/in/agust%C3%ADn-bustos-piasentini-468446122/
+- https://www.linkedin.com/in/agust%C3%ADn-bustos-piasentini-468446122/
 
-    https://www.youtube.com/user/agustinbustosp
+- https://www.youtube.com/user/agustinbustosp
 
-    whatsapp al https://wa.me/+5493764224695
+- whatsapp al https://wa.me/+5493764224695
 
+---
 
 <br/>
 
 ## 💰 Acepto donaciones para mantener el proyecto libre y gratuito
+
 <br/>
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agustinbustosp) <!-- [<img src="http://ketekipo.com.ar/wp-content/uploads/2020/05/mercado-pago.png" alt="Image" height="30" width="100\">](https://paypal.me/paypal.me/agustinbustosp) -->
@@ -53,7 +73,7 @@ Cualquier cosa pueden contactarme en:
 [<img src="https://santanderpost.com.ar/wp-content/uploads/2022/02/Cafecito-.jpg" alt="Image" height="30" width="65\">](https://cafecito.app/abustos)
 
 <br/>
- 
+
 ## 💰 Y También en Pesos Argentinos
 
 <br/>
@@ -67,4 +87,3 @@ Cualquier cosa pueden contactarme en:
 [![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago%205.000-009ee3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://mpago.la/1s4D4mM)
 
 [![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago%2010.000-009ee3?style=for-the-badge&logo=mercadopago&logoColor=white)](https://mpago.la/1n9cimr)
-

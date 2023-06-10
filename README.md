@@ -21,11 +21,15 @@ Los pasos para ejecutar el bot son los siguientes:
 4. Descargar el BOT. Acá hay 3 opciones:
 
     1. Descargar el ZIP.
+    
     2. Descargarlo con la integración de GIT desde el Uipath.
-    3. Descargar el repositorio con GIT utilizando el comando "git clone"
+    
+    4. Descargar el repositorio con GIT utilizando el comando "git clone"
     
  5. Una vez Descargados los archivos se debe:
-    1. Abrir el project.json o archivo .xaml 
+ 
+    1. Abrir el project.json o archivo .xaml
+     
     2. Ejecutarlo (hacer click en el boton de "Play". 
 
 ---
@@ -47,6 +51,14 @@ Los pasos para ejecutar el bot son los siguientes:
 - La utilización del bot es bajo tu propia responsabilidad.
 
 - Si se comparte debe ser de manera GRATUITA, ya que la licencia es bajo GPL 3. También los bots derivados deben seguir la misma licencia gratuita.
+
+---
+
+## Videos que pueden ser de utilidad
+
+1. Descarga de BOTs de repositorios de GitHub con Uipath: https://youtu.be/hD5BH7YzABw
+
+2. Descarga e instalación de GIT para descargar repositorios (en caso que no esta habilitada la funcionalidad nativa de Clonar los repositorios): https://youtu.be/ujk27tRdA80 
 
 ---
 

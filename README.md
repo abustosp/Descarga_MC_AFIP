@@ -84,9 +84,7 @@ Cualquier cosa pueden contactarme en:
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agustinbustosp) <!-- [<img src="http://ketekipo.com.ar/wp-content/uploads/2020/05/mercado-pago.png" alt="Image" height="30" width="100\">](https://paypal.me/paypal.me/agustinbustosp) -->
 
-<!-- [![Cafecito](https://img.shields.io/badge/-Cafecito-9cf?style=for-the-badge)](https://cafecito.app/abustos) -->
-
-[<img src="https://santanderpost.com.ar/wp-content/uploads/2022/02/Cafecito-.jpg" alt="Image" height="30" width="65\">](https://cafecito.app/abustos)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/abustos)
 
 <br/>
 

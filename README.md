@@ -54,7 +54,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
   ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Ubicacion-de-descargas.png "Configuración de descarga")
 
-  3. La descarga de archivos debe estar configurada para que no se pregunte si se quiere guardar el archivo
+  3. La descarga de archivos debe estar configurada para que no se pregunte si se quiere guardar el archivo (si el archivo aparece en la lista tiene que estar configurado con la opción de "Guardar Archivo" por ejemplo en el caso de los PDF y XLSX o planillas de cálculo)
 
   ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Descarga-de-Archivos.png "Configuración de descarga")
 

@@ -46,15 +46,15 @@ Los pasos para ejecutar el bot son los siguientes:
 
 - Firefox se debe configurar de la siguiente manera:
 
-  - El idioma tiene que estar en Español de Argentina
+  1. El idioma tiene que estar en Español de Argentina
 
   ![Configuración de idioma](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Idioma-Espa%C3%B1ol-ARG.png "Configuración de idioma")
 
-  - La descarga de archivos debe estar configurada para que se pregunte donde guardarlos
+  2. La descarga de archivos debe estar configurada para que se pregunte donde guardarlos
 
   ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Ubicacion-de-descargas.png "Configuración de descarga")
 
-  - La descarga de archivos debe estar configurada para que no se pregunte si se quiere guardar el archivo
+  3. La descarga de archivos debe estar configurada para que no se pregunte si se quiere guardar el archivo
 
   ![Configuración de descarga](https://github.com/abustosp/Configuraciones/blob/master/Firefox/Descarga-de-Archivos.png "Configuración de descarga")
 

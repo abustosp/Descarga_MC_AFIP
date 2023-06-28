@@ -18,19 +18,35 @@ Los pasos para ejecutar el bot son los siguientes:
 
 3. Instalar la version el Studio (no la Studio X).
 
-4. Descargar el BOT. Acá hay 3 opciones:
+  - Si se instala la versión Studio X se debe cambiar la versión del proyecto a Studio X con desde las configuraciones
 
-    1. Descargar el ZIP.
-    
-    2. Descargarlo con la integración de GIT desde el Uipath.
-    
-    4. Descargar el repositorio con GIT utilizando el comando "git clone"
-    
- 5. Una vez Descargados los archivos se debe:
- 
-    1. Abrir el project.json o archivo .xaml
-     
-    2. Ejecutarlo (hacer click en el boton de "Play"). 
+  ![Configuración de versión](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Cambiar-a-Studio.png "Configuración de versión")
+
+    - Si no permite hacer este cambio se debe:
+
+      1. Iniciar sesión en Uipath cloud.
+
+      2. Eliminar la organización.
+
+      3. Crear una nueva organización.
+
+4. Descargar el BOT. Acá hay 3 opciones:
+   
+   1. Descargar el ZIP.
+   
+   2. Descargarlo con la integración de GIT desde el Uipath.
+
+     - Si no aparece la opción de GIT en el Uipath se debe instalar el GIT desde las configuraciones de Uipath
+
+     ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png "Configuración de GIT")
+   
+   3. Descargar el repositorio con GIT utilizando el comando `git clone https://github.com/abustosp/Descarga_MC_AFIP.git`
+
+5. Una vez Descargados los archivos se debe:
+   
+   1. Abrir el project.json o archivo .xaml
+   
+   2. Ejecutarlo (hacer click en el boton de "Play").
 
 ---
 

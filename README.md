@@ -52,7 +52,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
 ## Particularidades del BOT:
 
-- Para Ejecutar el BOT se debe completar la información en el Excel (hay que tener en cuenta el formato regional de Excel, en algunos casos hay que reemplazar en todas las fórmulas los AAAA por YYYY)
+- Para Ejecutar el BOT se debe completar la información en el Excel
 
 - En caso que no se guarden los Archivos con el nombre definido en el Excel se debe ejecutar el bot que contiene en su nombre "sin ST"
 

@@ -215,7 +215,6 @@
                                 </ActivityAction.Argument>
                                 <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="760,7961" sap2010:WorkflowViewState.IdRef="Sequence_68">
                                   <Sequence.Variables>
-                                    <Variable x:TypeArguments="x:TimeSpan" Default="[timespan.parse(row(&quot;Delay&quot;).ToString)]" Name="DelayMultiple" />
                                     <Variable x:TypeArguments="x:Boolean" Name="MisServicios" />
                                   </Sequence.Variables>
                                   <sap:WorkflowViewStateService.ViewState>

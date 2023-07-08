@@ -54,7 +54,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
 - Para Ejecutar el BOT se debe completar la información en el Excel
 
-- En caso que no se guarden los Archivos con el nombre definido en el Excel se debe ejecutar el bot que contiene en su nombre "sin ST"
+- En caso que no se guarden los Archivos con el nombre y/o ubicación definidas en el Excel se debe ejecutar el bot que contiene en su nombre "sin ST"
 
 - Las ubicaciones del Excel deben ir desde el Disco hasta la Ubicación completa con un backslash final (ejemplo: `C:\Users\Agustin Bustos\Desktop\TEST\`)
   

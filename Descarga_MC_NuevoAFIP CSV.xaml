@@ -150,14 +150,14 @@
               <av:Size x:Key="ShapeSize">200,81</av:Size>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <Sequence sap:VirtualizedContainerService.HintSize="1180,9442" sap2010:WorkflowViewState.IdRef="Sequence_73">
+          <Sequence sap:VirtualizedContainerService.HintSize="1180,9433" sap2010:WorkflowViewState.IdRef="Sequence_73">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">False</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Sequence DisplayName="Multiple" sap:VirtualizedContainerService.HintSize="1118,9331" sap2010:WorkflowViewState.IdRef="Sequence_72">
+            <Sequence DisplayName="Multiple" sap:VirtualizedContainerService.HintSize="1118,9322" sap2010:WorkflowViewState.IdRef="Sequence_72">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -610,7 +610,7 @@
                                                               <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ba79224b-ee5e-4926-ac87-c24efa0fd0bf" InformativeScreenshot="db6cbde39e26b121069cd57ede102830" Selector="&lt;webctrl aaname='Excel' innertext='Excel' /&gt;" TimeoutMS="60000" WaitForReady="COMPLETE" />
                                                             </ui:WaitUiElementAppear.Target>
                                                           </ui:WaitUiElementAppear>
-                                                          <ui:Click DelayMS="{x:Null}" SendWindowMessages="{x:Null}" AlterIfDisabled="True" ClickType="CLICK_SINGLE" DelayBefore="1" DisplayName="Click CSV" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_116" KeyModifiers="None" MouseButton="BTN_LEFT" SimulateClick="True">
+                                                          <ui:Click DelayMS="{x:Null}" SendWindowMessages="{x:Null}" AlterIfDisabled="True" ClickType="CLICK_SINGLE" DelayBefore="1" DisplayName="Click CSV" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_137" KeyModifiers="None" MouseButton="BTN_LEFT" SimulateClick="True">
                                                             <ui:Click.CursorPosition>
                                                               <ui:CursorPosition Position="Center">
                                                                 <ui:CursorPosition.OffsetX>
@@ -622,7 +622,7 @@
                                                               </ui:CursorPosition>
                                                             </ui:Click.CursorPosition>
                                                             <ui:Click.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1fbe5992-cf03-4a2e-a210-c3975f9fc21c" InformativeScreenshot="9e400516723158da39bb1142018f39f2" Selector="&lt;webctrl aaname='*CSV*' omit:parentid='tablaDataTables_wrapper' tag='SPAN' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="32cb7622-25a5-40ae-ad10-a7b4b9040c65" InformativeScreenshot="d5d09cc6e56a3a47b60b24a967fced31" Selector="&lt;webctrl omit:parentid='tablaDataTables_wrapper' tag='BUTTON' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>
@@ -826,7 +826,7 @@
                                                               <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ba79224b-ee5e-4926-ac87-c24efa0fd0bf" InformativeScreenshot="db6cbde39e26b121069cd57ede102830" Selector="&lt;webctrl aaname='Excel' innertext='Excel' /&gt;" TimeoutMS="60000" WaitForReady="COMPLETE" />
                                                             </ui:WaitUiElementAppear.Target>
                                                           </ui:WaitUiElementAppear>
-                                                          <ui:Click DelayMS="{x:Null}" SendWindowMessages="{x:Null}" AlterIfDisabled="True" ClickType="CLICK_SINGLE" DelayBefore="1" DisplayName="Click CSV" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_123" KeyModifiers="None" MouseButton="BTN_LEFT" SimulateClick="True">
+                                                          <ui:Click DelayMS="{x:Null}" SendWindowMessages="{x:Null}" AlterIfDisabled="True" ClickType="CLICK_SINGLE" DelayBefore="1" DisplayName="Click CSV" sap:VirtualizedContainerService.HintSize="410,107" sap2010:WorkflowViewState.IdRef="Click_139" KeyModifiers="None" MouseButton="BTN_LEFT" SimulateClick="True">
                                                             <ui:Click.CursorPosition>
                                                               <ui:CursorPosition Position="Center">
                                                                 <ui:CursorPosition.OffsetX>
@@ -838,7 +838,7 @@
                                                               </ui:CursorPosition>
                                                             </ui:Click.CursorPosition>
                                                             <ui:Click.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="32cb7622-25a5-40ae-ad10-a7b4b9040c65" InformativeScreenshot="d5d09cc6e56a3a47b60b24a967fced31" Selector="&lt;webctrl aaname='*CSV*' omit:parentid='tablaDataTables_wrapper' tag='BUTTON' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="32cb7622-25a5-40ae-ad10-a7b4b9040c65" InformativeScreenshot="d5d09cc6e56a3a47b60b24a967fced31" Selector="&lt;webctrl omit:parentid='tablaDataTables_wrapper' tag='BUTTON' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>
@@ -1095,7 +1095,7 @@
                   </ui:OpenBrowser.Body>
                 </ui:OpenBrowser>
               </Sequence>
-              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="924,94" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[&quot;Terminado&quot;]" />
+              <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="1056,85" sap2010:WorkflowViewState.IdRef="MessageBox_5" Text="[&quot;Terminado&quot;]" />
             </Sequence>
           </Sequence>
         </FlowStep>

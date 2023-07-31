@@ -622,7 +622,7 @@
                                                               </ui:CursorPosition>
                                                             </ui:Click.CursorPosition>
                                                             <ui:Click.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1fbe5992-cf03-4a2e-a210-c3975f9fc21c" InformativeScreenshot="9e400516723158da39bb1142018f39f2" Selector="&lt;webctrl aaname='*CSV*' omit:parentid='tablaDataTables_wrapper' tag='SPAN' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="1fbe5992-cf03-4a2e-a210-c3975f9fc21c" InformativeScreenshot="9e400516723158da39bb1142018f39f2" Selector="&lt;webctrl omit:parentid='tablaDataTables_wrapper' tag='SPAN' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>
@@ -838,7 +838,7 @@
                                                               </ui:CursorPosition>
                                                             </ui:Click.CursorPosition>
                                                             <ui:Click.Target>
-                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="32cb7622-25a5-40ae-ad10-a7b4b9040c65" InformativeScreenshot="d5d09cc6e56a3a47b60b24a967fced31" Selector="&lt;webctrl aaname='*CSV*' omit:parentid='tablaDataTables_wrapper' tag='BUTTON' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
+                                                              <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="32cb7622-25a5-40ae-ad10-a7b4b9040c65" InformativeScreenshot="d5d09cc6e56a3a47b60b24a967fced31" Selector="&lt;webctrl omit:parentid='tablaDataTables_wrapper' tag='BUTTON' innertext='*CSV*' /&gt;" WaitForReady="COMPLETE">
                                                                 <ui:Target.TimeoutMS>
                                                                   <InArgument x:TypeArguments="x:Int32" />
                                                                 </ui:Target.TimeoutMS>

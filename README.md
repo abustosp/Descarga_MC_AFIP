@@ -46,7 +46,9 @@ Los pasos para ejecutar el bot son los siguientes:
    
    1. Abrir el project.json o archivo .xaml
    
-   2. Ejecutarlo (hacer click en el boton de "Play").
+   2. Ejecutarlo desde el botón de Run File (hacer click abajo del boton de "Play").
+
+      ![Ejecución del BOT](https://raw.githubusercontent.com/abustosp/Configuraciones/master/Uipath/Run-File.png "Ejecución del BOT")
 
 ---
 

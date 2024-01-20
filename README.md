@@ -98,6 +98,9 @@ Los pasos para ejecutar el bot son los siguientes:
 
 - Tutorial de Instalación y descarga de Repositorios con Git: https://youtu.be/ujk27tRdA80
 
+- Link de comunidad de Contadores Argentinos en Telegram (uno de los temas es RPA): https://t.me/contadores_argentinos
+
+
 ---
 
 Cualquier cosa pueden contactarme en:
